@@ -18,7 +18,7 @@ Please Feel Free to ask me if you have any problem.
 
 ## Tech Stack
 
-**Client:** NodeJS, ExpressJS, MongoDB
+**Client:** Php, Bootstrap
 
 
 
